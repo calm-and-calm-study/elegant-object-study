@@ -1,6 +1,8 @@
 # 📖 엘레강트 오브젝트 스터디
 - [책 정보](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791187497219)
 
+![image](https://user-images.githubusercontent.com/66561524/171986798-2f5e1d46-076f-4744-899c-8654ea0edb3c.png)
+
 ## 📆기간
 - 일정: 2022-06-07(화) ~ 2022-07-08(금)
 
